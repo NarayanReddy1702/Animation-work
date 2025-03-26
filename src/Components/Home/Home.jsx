@@ -49,6 +49,7 @@ useEffect(()=>{
         </div>
         <nav className='max-w-[1200px] relative mx-auto bg-black h-[10vh]'>
           <h1>Logo</h1>
+          hello world
         <hr className='absolute bottom-0 left-0 w-full h-[0.5px] text-gray-500' />
         </nav>
          <div className=' text uppercase text-[16vh] font-semibold text-black tracking-tighter absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20'>
