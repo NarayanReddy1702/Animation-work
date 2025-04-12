@@ -11,7 +11,7 @@ const locomotiveScroll = new LocomotiveScroll();
 
   return (
    <div className='w-full min-h-screen bg-black text-white'>
-      <Home  update={setVisible}/>
+      <Home visible={visible}  update={setVisible}/>
       <ImageScroll visible={visible}/>
       <BoxAnime visible={visible}/>
    </div>
